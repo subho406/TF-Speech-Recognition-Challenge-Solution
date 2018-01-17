@@ -31,7 +31,7 @@ The notebooks can be run individually using Jupyter. To run the scripts from com
    and select the notebook to run. The results are stored in results/notebook_name.log
    
    
-   P0 Predict Test WAV.ipynb can be used to predict audio files using a trained graphdef model. 
+P0 Predict Test WAV.ipynb can be used to predict audio files using a trained graphdef model. 
   
    
 ## Architecture
